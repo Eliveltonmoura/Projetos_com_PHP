@@ -19,7 +19,6 @@ Um projeto de blog simples desenvolvido em PHP. Este repositório faz parte dos 
 - **PHP** — linguagem principal do backend  
 - **MySQL / MariaDB** — para armazenar os posts (supondo que use banco de dados)  
 - **HTML / CSS** — para estrutura e estilo das páginas  
-- **Bootstrap** (opcional) — se estiver usando para estilizar  
 
 ---
 
